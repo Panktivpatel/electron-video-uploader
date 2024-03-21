@@ -1,0 +1,16 @@
+{
+  "name": "assignment-1-vsaluja",
+  "version": "1.0.0",
+  "description": "<img width=\"150px\" src=\"https://w0244079.github.io/nscc/nscc-jpeg.jpg\" >",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.2"
+  }
+}
