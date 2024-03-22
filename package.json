@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^28.2.8"
+    "electron": "^28.2.8",
+    "snyk": "^1.1285.0"
   },
   "dependencies": {
     "synk": "^0.0.2"
