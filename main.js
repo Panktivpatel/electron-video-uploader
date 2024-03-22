@@ -1,4 +1,7 @@
+require('dotenv').config();
 const { BrowserWindow, Menu, dialog, ipcMain, app } = require('electron');
+
+const snykToken = process.env.SNYK_TOKEN;
 
 // When the Electron application is ready to create windows
 app.on('ready', () => {
